@@ -37,7 +37,8 @@ Describe the steps to get a copy of the project up and running on a local machin
 - Node.js and npm installed
 - Git installed
 - 
-###Screenshot
+## Screenshot
+![1](https://github.com/AbhaySinghBisht21/Mern_Ecommerce/assets/85033286/e93b779b-0679-420f-82bc-07cb74a6e1f8)
 
 ### Installation
 
