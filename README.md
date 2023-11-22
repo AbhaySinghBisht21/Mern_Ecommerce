@@ -45,6 +45,5 @@ Describe the steps to get a copy of the project up and running on a local machin
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-
+git clone git@github.com:AbhaySinghBisht21/Mern_Ecommerce.git
 
