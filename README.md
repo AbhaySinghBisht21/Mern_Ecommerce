@@ -10,7 +10,7 @@ Brief description of your project.
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Screenshot](#Screenshot)
 
 ## Overview
 
@@ -36,6 +36,8 @@ Describe the steps to get a copy of the project up and running on a local machin
 
 - Node.js and npm installed
 - Git installed
+- 
+###Screenshot
 
 ### Installation
 
@@ -43,4 +45,5 @@ Describe the steps to get a copy of the project up and running on a local machin
 
 ```bash
 git clone https://github.com/your-username/your-repository.git
+
 
